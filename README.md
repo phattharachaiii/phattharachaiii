@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif" width="360" /><br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY1ZTdsYXh1cnlub3pnNWlhaGMwNmgwdGwxMHp3bHo4cThxZncweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owvKdSecsPWrDDjIQ/giphy.gif" width="360" /><br>
   <b>Thank you for visiting my profile!<br>
   Feel free to connect or say hi! 🚀</b>
 </p>
