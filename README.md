@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="hacker cat" width="220"/>
+  <img src="https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif" width="360" /><br>
   <b>Thank you for visiting my profile!<br>
   Feel free to connect or say hi! 🚀</b>
 </p>
