@@ -1,5 +1,7 @@
 # Phattharachai Leeyuttanon
 
+![hacker cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 👋 Hi, I’m **Phattharachai Leeyuttanon**  
 🎓 Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand
 
@@ -24,8 +26,8 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](#) <!-- Please insert your actual LinkedIn URL -->
-- [Personal Website](#) <!-- Please insert your actual website URL -->
+- [LinkedIn](https://www.linkedin.com/in/phattharachai-leeyuttanon-11b0b8331/) <!-- Please insert your actual LinkedIn URL -->
+- [Personal Website](https://phattharachaiii.github.io/phatnonz.github.io/) <!-- Please insert your actual website URL -->
 
 ---
 
@@ -44,6 +46,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=phattharachaiii&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+![funny hacker meme](https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif)
 
 Thank you for visiting my profile!  
 Feel free to connect or say hi!
