@@ -33,13 +33,16 @@
 ## 🌐 &nbsp;Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/phattharachai-leeyuttanon-11b0b8331/">
+  <a href="https://www.linkedin.com/in/phattharachai-leeyuttanon-11b0b8331/"
+     target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://phattharachaiii.github.io/phatnonz.github.io/">
+  <a href="https://phattharachaiii.github.io/phatnonz.github.io/"
+     target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 ---
 
