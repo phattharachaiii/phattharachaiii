@@ -1,7 +1,9 @@
 # 🚀 Phattharachai Leeyuttanon 🚀
+
 <p align="center">
-![hacker cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="hacker cat" width="220"/>
 </p>
+
 <p align="center">
   <b>Hi there! 👋</b><br>
   <b>I'm <span style="color:#1e90ff;">Phattharachai Leeyuttanon</span></b><br>
